@@ -8,6 +8,8 @@ This repo explores using the package Requests, to make GET and POST request to a
 - Complete this README.md
 
 ## What is an API
+- Application Program Interface
+- Set of routines, protocols, and tools for building software applications.
 
 ## What is JSON
 
